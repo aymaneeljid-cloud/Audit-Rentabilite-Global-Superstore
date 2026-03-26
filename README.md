@@ -23,7 +23,7 @@ Ce projet démontre la maîtrise d'une chaîne complète de traitement de la don
 * **Microsoft Power BI :** Création du modèle de données (Data Modeling) et conception du tableau de bord exécutif (KPIs financiers, analyse des variances).
 * **Microsoft Excel :** Tableaux croisés dynamiques avancés et mise en forme conditionnelle pour le reporting final "prêt pour présentation".
 Synthèse financière réalisée sur Excel via TCD, mettant en évidence la destruction de valeur sur la sous-catégorie 'Tables' malgré un chiffre d'affaires élev
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/444b5d92-9845-4fbe-88f8-cec7e0f9f359" />
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/d549ce49-79a5-4aae-aa0c-1e8af55cfc95" />
 
 
 *Ce portfolio a été conçu pour démontrer des compétences pratiques en Audit, Contrôle de Gestion et Data Analysis.*
